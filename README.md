@@ -4,6 +4,8 @@ This library has been developed for learning purposes. With this library, you ca
 
 ### Usage
 
+#### Note: You must add Internet permission to AndroidManifest.xml file.
+
 ```Java
 ...
 
